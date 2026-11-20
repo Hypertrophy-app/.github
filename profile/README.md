@@ -8,7 +8,7 @@ Hypertrophy is a fitness tracking app — **Android first**, iOS-ready.
 
 ## Repositories
 
-- [`hypertrophy-app/app`](https://github.com/hypertrophy-app/app) — cross-platform mobile app (Expo / React Native).
+- [`hypertrophy-app/hypertrophy-android`](https://github.com/hypertrophy-app/hypertrophy-android) — cross-platform mobile app (Expo / React Native).
 
 ## Stack
 
