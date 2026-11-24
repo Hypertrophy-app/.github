@@ -19,6 +19,8 @@ storage, and the network is an optional convenience rather than a dependency.
 | Repository | Description | Stack |
 | --- | --- | --- |
 | [`hypertrophy-android`](https://github.com/Hypertrophy-app/hypertrophy-android) | Android client and edge backend monorepo. | Kotlin, Compose, Room, Hilt, Ktor, Cloudflare Workers |
+| [`hypertrophy-site`](https://github.com/Hypertrophy-app/hypertrophy-site) | Public site, including the legal pages Play Console requires. | HTML, CSS, GitHub Pages |
+| [`hypertrophy-brand`](https://github.com/Hypertrophy-app/hypertrophy-brand) | Brand rules, store assets, listing copy, and Data safety answers. | Markdown, PNG |
 | [`.github`](https://github.com/Hypertrophy-app/.github) | Organization profile and shared community health files. | Markdown |
 
 ## What ships

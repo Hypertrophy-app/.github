@@ -8,3 +8,7 @@ Organization profile and shared configuration for
 
 Product code lives in
 [`hypertrophy-android`](https://github.com/Hypertrophy-app/hypertrophy-android).
+The public site is in
+[`hypertrophy-site`](https://github.com/Hypertrophy-app/hypertrophy-site) and
+store identity and submission material in
+[`hypertrophy-brand`](https://github.com/Hypertrophy-app/hypertrophy-brand).
